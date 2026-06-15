@@ -1,0 +1,6 @@
+{
+  "name": "Sehra-e-Khaas",
+  "description": "Premium luxury fashion and archival streetwear inspired by the timeless geometry and mystery of the desert.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
